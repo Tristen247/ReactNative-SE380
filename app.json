@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "scannerDemo",
-    "slug": "scannerDemo",
+    "name": "ReactNative-SE380",
+    "slug": "ReactNative-SE380",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
