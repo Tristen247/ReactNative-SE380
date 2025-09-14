@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "ReactNative-SE380",
+    "slug": "ReactNative-SE380",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./scannerDemo/assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./scannerDemo/assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+      "NSCameraUsageDescription": "Camera access is required to scan product QR codes."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./scannerDemo/assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./scannerDemo/assets/favicon.png"
+    },
+    "plugins": [
+      
+    ]
+  }
+}
